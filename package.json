@@ -1,8 +1,8 @@
 {
-  "name": "hws2",
-  "homepage": "https://github.com/LuckyF1re/hw2",
+  "name": "hws2-master",
+  "homepage": "https://github.com/LuckyF1re/hws2-master",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@emotion/react": "11.10.4",
     "@emotion/styled": "11.10.4",
